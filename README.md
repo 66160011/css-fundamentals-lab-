@@ -20,4 +20,4 @@
 - git checkout  feature/main
 - git merge feature/main 
 - git merge feature/css 
-- git push 0rigin main
+- git push origin main
